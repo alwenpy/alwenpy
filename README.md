@@ -2,6 +2,7 @@
 <h3 align="center">A Python Enthusiast turned Backend Architect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwenpy&label=Profile%20views&color=0e75b6&style=flat" alt="alwenpy" /> </p>
+
 - 🌟 A dedicated self-learner who strives to learn and grow every single day.
 
 - I like computer science stuff that include backend, APIs,frameworks like **Django ,Flask & Fast API (also tried Svelte)** and currently learning **Laravel**
