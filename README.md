@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arvind Srivastav</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="200" height="150"/>
 </div>
+<h1 align="center">Hi 👋, I'm Arvind Srivastav</h1>
 <h3 align="center">A Python Enthusiast turned Backend Architect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwenpy&label=Profile%20views&color=0e75b6&style=flat" alt="alwenpy" /> </p>
@@ -14,9 +14,7 @@
 
 - 🚀 Postman Student Leader
 
-- 📧 You can get in touch with me at **alwen1928@gmail.com**
-
-- :mailbox:Reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwenpy/)
+- :mailbox:Reach me : [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwenpy/)
 
 - 📄 Click [here](https://drive.google.com/file/d/1YJAB3ijX1zS499hfoITQv6t7wxeoKqGp/view?usp=drive_link) for my RESUME.
 
