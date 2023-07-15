@@ -86,5 +86,5 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alwenpy&show_icons=true&locale=en&layout=compact" alt="alwenpy" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alwenpy&" alt="alwenpy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alwenpy&" alt="alwenpy" /></p>
 
