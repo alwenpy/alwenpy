@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif"/>
+  <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="gif" width="400" />
 </div>
 <h1 align="center">Hi 👋, I'm Arvind Srivastav</h1>
 <h3 align="center">A Python Enthusiast turned Backend Architect!</h3>
