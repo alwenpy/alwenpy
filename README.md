@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I've crafted my very own Python pip library packed with some blogging utilities.[Package Link](https://pypi.org/project/blogutils/)📚🐍**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/alwen_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alwen_py" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alwenpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alwenpy" height="30" width="40" /></a>
@@ -26,9 +26,9 @@
 <a href="https://www.hackerrank.com/alwen1928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alwen1928" height="30" width="40" /></a>
 <a href="https://discord.gg/alwenpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alwenpy" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages, Frameworks, and Tools:</h3>
+<h3 align="center">Languages, Frameworks, and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
