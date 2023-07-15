@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="gif" width="200"  style="border-radius: 50%;"  />
+  <img align="center" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="gif" width="200"/>
 </div>
 <h1 align="center">Hi 👋, I'm Arvind Srivastav</h1>
 <h3 align="center">A Python Enthusiast turned Backend Architect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwenpy&label=Profile%20views&color=0e75b6&style=flat" alt="alwenpy" /> </p>
 
-- 🌟 A dedicated self-learner who strives to learn and grow every single day.
+- 🌟 A dedicated self-learner who strives to learn and grow every single day
 
 - I like computer science stuff that include backend, APIs,frameworks like **Django ,Flask & Fast API (also tried Svelte)** and currently learning **Laravel**
 
