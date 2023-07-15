@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arvind Srivastav</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy-downsized-large.gif" alt="Waving Hand" width="200"/>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="150"/>
+</div>
 <h3 align="center">A Python Enthusiast turned Backend Architect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwenpy&label=Profile%20views&color=0e75b6&style=flat" alt="alwenpy" /> </p>
