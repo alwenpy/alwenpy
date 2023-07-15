@@ -10,9 +10,9 @@
 
 - I like computer science stuff that include backend, APIs,frameworks like **Django ,Flask & Fast API (also tried Svelte)** and currently learning **Laravel**
 
-- 🍁 Currently contributing in GSSOC'23  
+- 🍁 Currently contributing in **GSSOC'23**  
 
-- 🚀 Postman Student Leader
+- 🚀 **Postman Student Leader**
 
 - :mailbox:Reach me : [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwenpy/)
 
