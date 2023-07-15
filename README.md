@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arvind Srivastav</h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy-downsized-large.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="200" height="150"/>
 </div>
 <h3 align="center">A Python Enthusiast turned Backend Architect!</h3>
 
