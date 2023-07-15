@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alwen1928@gmail.com**
 
-- 📄 Here is my RESUME! [https://drive.google.com/file/d/1YJAB3ijX1zS499hfoITQv6t7wxeoKqGp/view?usp=drive_link](https://drive.google.com/file/d/1YJAB3ijX1zS499hfoITQv6t7wxeoKqGp/view?usp=drive_link)
+- 📄 Click [here](https://drive.google.com/file/d/1YJAB3ijX1zS499hfoITQv6t7wxeoKqGp/view?usp=drive_link) for my RESUME.
 
 - ⚡ Fun fact **I've crafted my very own Python pip library packed with some blogging utilities.[Package Link](https://pypi.org/project/blogutils/)📚🐍**
 
