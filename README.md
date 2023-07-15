@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I've crafted my very own Python pip library packed with some blogging utilities.[Package Link](https://pypi.org/project/blogutils/)📚🐍**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/alwen_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alwen_py" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alwenpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alwenpy" height="30" width="40" /></a>
 <a href="https://instagram.com/oyealwen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oyealwen" height="30" width="40" /></a>
