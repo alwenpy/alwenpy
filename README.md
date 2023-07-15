@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="200" height="150"/>
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200" height="150" />
 </div>
 <h1 align="center">Hi 👋, I'm Arvind Srivastav</h1>
