@@ -1,4 +1,4 @@
-`🌟Welcome to my Github Profile 
+![Header](https://github.com/alwenpy/alwenpy/blob/main/Github.png?raw=true)
 ```python
 $ pip install alwenpy
 Collecting alwenpy
@@ -28,9 +28,7 @@ $ python
 >>> exit()
 ```
 ---
-<div id="header" align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="gif" width="200"/>
-</div><br><p align="center"> <img src="https://komarev.com/ghpvc/?username=alwenpy&label=Profile%20views&color=0e75b6&style=flat" alt="alwenpy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alwenpy&label=Profile%20views&color=0e75b6&style=flat" alt="alwenpy" /> </p>
 
 ## 💻Languages and Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -63,4 +61,9 @@ $ python
 
 ---
 ## 📊 Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alwenpy&" alt="alwenpy" /></p>
+
+![alwenpy's Stats](https://github-readme-stats.vercel.app/api?username=alwenpy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![alwenpy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alwenpy&theme=tokyonight&hide_border=true)
+
+## 🖇️ My Holopin Badges
+![@alwenpy19's Holopin board](https://holopin.me/alwenpy19)
