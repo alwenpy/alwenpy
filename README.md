@@ -14,15 +14,12 @@ $ python
 >>> README.md()
 
 {
-    "About" : "Hi, Arvind this side 👋",
-    "I'm" : " A dedicated self-learner",
-    "Techn Intro":"Python Enthusiast turned Backend Architect🐍"
-    "I like": "computer science stuff that include backend, APIs,frameworks like Django ,Flask & Fast API (also tried Svelte)🧑‍💻"
-    "Currently Learning" : "Laravel a PHP based framework",
-    "Contributing in" : "🍁GSSOC'23",
-    "Also a" : "🚀POSTMAN STUDENT LEADER",
-    "Fun fact":"Crafted my very own Python pip library packed with some blogging utilities"
-    "Reach me at" : "alwen1928@gmail.com📨"
+    "About": "Hi, Arvind this side 👋",
+    "Intro":" Python Enthusiast turned Backend Architect🐍"
+    "I like": "Computer science stuff that includes backend, APIs, frameworks like Django, & Fast API (have tried a variety of frameworks)🧑‍💻"
+    "Currently Learning": "Fast API, MongoDB",
+    "Also a": "🚀POSTMAN STUDENT LEADER",
+    "Reach me at": "alwen1928@gmail.com📨"
 }
 
 >>> exit()
@@ -38,9 +35,6 @@ $ python
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 
 ## 🔦Tools
